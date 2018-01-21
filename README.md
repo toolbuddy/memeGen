@@ -1,13 +1,13 @@
 # MemeGen
+
+[![npm version](https://badge.fury.io/js/memegen.svg)](https://badge.fury.io/js/memegen)
+[![npm downloads](https://img.shields.io/npm/dm/memegen.svg)](https://img.shields.io/npm/dm/memegen.svg)
+
 A meme generator.
 
 ![](./output/showcase.png)
 
 # How to use
-
-[![npm version](https://badge.fury.io/js/memegen.svg)](https://badge.fury.io/js/memegen)
-[![npm downloads](https://img.shields.io/npm/dm/memegen.svg)](https://img.shields.io/npm/dm/memegen.svg)
-
 
 ## Install 
 
