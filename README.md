@@ -1,6 +1,8 @@
 # MemeGen
 A meme generator.
 
+![](./output/showcase.png)
+
 # How to use
 
 ## Install 
