@@ -5,11 +5,17 @@ A meme generator.
 
 # How to use
 
+[![npm version](https://badge.fury.io/js/memegen.svg)](https://badge.fury.io/js/memegen)
+[![npm downloads](https://img.shields.io/npm/dm/memegen.svg)](https://img.shields.io/npm/dm/memegen.svg)
+
+
 ## Install 
 
 ```bash 
 npm install memegen -g
 ```
+
+---
 
 ## Usage
 
@@ -19,6 +25,12 @@ npm install memegen -g
 ```bash
 memegen -1 upper.png -2 lower.png -o output_dir -f output_filename -t png
 ```
+
+* See some example!
+    * Bang!
+    ![](output/bang.png)
+
+---
 
 ### Dynamic Configuration
 * [Config file format](https://github.com/toolbuddy/memegen/wiki/Configuration)
