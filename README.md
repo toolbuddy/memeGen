@@ -1,2 +1,24 @@
-# drake_meme
-A meme generator about Drake Graham.
+# MemeGen
+A meme generator.
+
+# How to use
+
+## Install 
+
+```bash 
+npm install memegen -g
+```
+
+## Usage
+
+* Example:
+
+```bash
+memegen -1 upper.png -2 lower.png -o output_dir -f output_filename -t png
+```
+
+* or just using `--help`:
+
+```bash
+memegen --help
+```
