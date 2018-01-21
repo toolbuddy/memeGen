@@ -1,0 +1,28 @@
+{
+    "input":[
+        {
+            "src": "input/of.jpg",
+            "size": {
+                "w": 370,
+                "h": 307
+            },
+            "loc": {
+                "top": 0,
+                "left": 375
+            }
+        },{
+            "src": "input/p4.png",
+            "size": {
+                "w": 370,
+                "h": 307
+            },
+            "loc": {
+                "top": 310,
+                "left": 375
+            }
+        }
+    ],
+    "bg":{
+        "src": "lib/peter_parker_template.jpg"
+    }
+}

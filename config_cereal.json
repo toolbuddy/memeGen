@@ -1,0 +1,28 @@
+{
+    "input":[
+        {
+            "src": "input/of.jpg",
+            "size": {
+                "w": 310,
+                "h": 242
+            },
+            "loc": {
+                "top": 0,
+                "left": 0
+            }
+        },{
+            "src": "input/p4.png",
+            "size": {
+                "w": 310,
+                "h": 242
+            },
+            "loc": {
+                "top": 242,
+                "left": 0
+            }
+        }
+    ],
+    "bg":{
+        "src": "lib/cereal_guy.jpg"
+    }
+}

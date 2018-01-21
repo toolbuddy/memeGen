@@ -1,6 +1,6 @@
 {
   "name": "memegen",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Making drake meme image.",
   "main": "main.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "commander": "^2.12.2",
     "fs-extra": "^5.0.0",
     "mkdirp": "^0.5.1",
+    "jsonfile": "^4.0.0",
     "moment": "^2.20.0"
   },
   "homepage": "https://github.com/toolbuddy/memegen#readme",
