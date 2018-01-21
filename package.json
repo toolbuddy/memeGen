@@ -1,6 +1,6 @@
 {
   "name": "memegen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Making drake meme image.",
   "main": "main.js",
   "scripts": {
