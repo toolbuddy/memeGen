@@ -11,9 +11,27 @@ A meme generator.
 
 ## Install 
 
+* Install globally
+
 ```bash 
-npm install memegen -g
+# switch to root
+$ sudo su
+# and then install with option "--unsafe-perm"
+$ npm install memegen --unsafe-perm --verbose memegen -g
+# use 
+$ memegen --help
 ```
+
+* Or use it locally
+
+```bash
+# install 
+$ npm install memegen --save
+# use (under same directory you use install command)
+$ node node_modules/memegen/main.js --help
+```
+
+* 
 
 ---
 
